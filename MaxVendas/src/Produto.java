@@ -4,6 +4,7 @@ public class Produto {
     private Double preco_venda;
     private int qtde;
 
+
     public Produto(){
 
     }
