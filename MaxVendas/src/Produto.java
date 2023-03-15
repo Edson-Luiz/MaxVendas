@@ -1,10 +1,10 @@
 public class Produto {
+
     private Double preco_compra;
     private Double preco_venda;
     private int qtde;
 
     public Produto(){
-
 
     }
 
@@ -29,7 +29,9 @@ public class Produto {
     }
 
     public void setQtde(int qtde) {
-        this.qtde = qtde;
+            this.qtde = qtde;
+
     }
+
 
 }
